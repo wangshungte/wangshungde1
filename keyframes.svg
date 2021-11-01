@@ -24,12 +24,12 @@
             }
 
             .block1 {
-                left: 15px;
+                left: 75px;
                 animation: ani1 2s infinite;
             }
 
             .block2 {
-                left: 30px;
+                left: 150px;
                 animation: ani2 2s infinite;
             }
 
