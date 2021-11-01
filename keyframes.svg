@@ -12,7 +12,7 @@
 
             .box {
                 width: 900px;
-                height: 200px;
+                height: 900px;
                 position: relative;
             }
 
