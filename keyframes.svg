@@ -34,17 +34,17 @@
             }
 
             .block3 {
-                left: 45px;
+                left: 140px;
                 animation: ani3 2s infinite;
             }
 
             .block4 {
-                left: 60px;
+                left: 205px;
                 animation: ani4 2s infinite;
             }
 
             .block5 {
-                left: 75px;
+                left: 270px;
                 animation: ani5 2s infinite;
             }
 
