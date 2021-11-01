@@ -29,7 +29,7 @@
             }
 
             .block2 {
-                left: 50px;
+                left: 70px;
                 animation: ani2 2s infinite;
             }
 
