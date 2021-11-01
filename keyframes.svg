@@ -24,7 +24,7 @@
             }
 
             .block1 {
-                left: 75px;
+                left: 50px;
                 animation: ani1 2s infinite;
             }
 
