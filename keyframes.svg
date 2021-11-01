@@ -24,27 +24,27 @@
             }
 
             .block1 {
-                left: 10px;
+                left: 20px;
                 animation: ani1 2s infinite;
             }
 
             .block2 {
-                left: 75px;
+                left: 95px;
                 animation: ani2 2s infinite;
             }
 
             .block3 {
-                left: 140px;
+                left: 170px;
                 animation: ani3 2s infinite;
             }
 
             .block4 {
-                left: 205px;
+                left: 245px;
                 animation: ani4 2s infinite;
             }
 
             .block5 {
-                left: 270px;
+                left: 320px;
                 animation: ani5 2s infinite;
             }
 
