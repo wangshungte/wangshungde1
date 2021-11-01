@@ -44,7 +44,7 @@
             }
 
             .block5 {
-                left: 400px;
+                left: 390px;
                 animation: ani5 2s infinite;
             }
 
